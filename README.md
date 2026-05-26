@@ -27,7 +27,32 @@ Analyze sales trends, pricing insights, and best-performing car models.
 
 ---
 
-## 🔷 2. Customer Analytics (RFM + CLV)
+# 2. Hospital Analysis SQL Project
+
+## Project Overview
+This project focuses on analyzing hospital patient data using SQL in MySQL Workbench. The objective of this project is to extract meaningful insights related to patient admissions, billing, treatment patterns, hospital stay duration, and doctor performance.
+
+---
+
+## Tools & Technologies Used
+- MySQL Workbench
+- SQL
+- Excel / CSV Dataset
+
+---
+
+## Key Business Problems Solved
+- Analyzed total patient admissions
+- Identified longest hospital stays
+- Calculated average billing amount
+- Evaluated doctor-wise patient handling
+- Analyzed department-wise treatment distribution
+- Identified most common diseases
+- Generated patient demographic insights
+
+---
+
+## 🔷 3. Customer Analytics (RFM + CLV)
 Complete customer segmentation and retention analysis.
 
 **Key Highlights**
@@ -40,7 +65,7 @@ Complete customer segmentation and retention analysis.
 
 ---
 
-## 🍕 3. Pizza Sales Analysis
+## 🍕 4. Pizza Sales Analysis
 A retail case study analyzing orders, revenue, performance, and customer behavior.
 
 **Key Highlights**
