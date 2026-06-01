@@ -178,5 +178,5 @@ A retail case study analyzing orders, revenue, performance, and customer behavio
 **Akash Verma**  
 GitHub: https://github.com/Akash-022480/SQL/edit/main/README.md
 LinkedIn: https://www.linkedin.com/feed/ 
-Email: smartyguycool555@gmail.com
+Email: akashverm983@gmail.com
 
